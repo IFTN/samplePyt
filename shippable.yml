@@ -17,6 +17,6 @@ build:
     - python -v
     - echo "$hoo"
     - echo $test
-    - echo dfs
+    - echo dfsd
     - echo yaa
     - echo $COMMIT_MESSAGE
