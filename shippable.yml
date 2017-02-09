@@ -18,5 +18,6 @@ build:
     - python --version
     - echo "$hoo"
     - echo $test
+    - echo dfs
     - echo yaa
     - echo $COMMIT_MESSAGE
