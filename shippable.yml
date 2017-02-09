@@ -16,8 +16,7 @@ env:
 build:
   ci:
     - python --version
-    - apt-get install jq
     - echo "$hoo"
     - echo $test
     - echo lollll
-    - echo $COMMIT_MESSAGE | jq '.'
+    - echo $COMMIT_MESSAGE
