@@ -19,5 +19,5 @@ build:
     - apt-get install jq
     - echo "$hoo"
     - echo $test
-    - echo lol
+    - echo lollll
     - echo $COMMIT_MESSAGE | jq '.'
