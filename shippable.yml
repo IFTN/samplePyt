@@ -18,5 +18,5 @@ build:
     - python --version
     - echo "$hoo"
     - echo $test
-    - echo lollll
+    - echo yaa
     - echo $COMMIT_MESSAGE
