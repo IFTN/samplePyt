@@ -19,4 +19,5 @@ build:
     - echo $test
     - echo dfsd
     - echo yaad
+    - echo yaa
     - echo $COMMIT_MESSAGE
