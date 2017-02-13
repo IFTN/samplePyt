@@ -14,7 +14,7 @@ env:
   
 build:
   ci:
-    - python -v
+    - python --version
     - echo "$hoo"
     - echo $test
     - echo dfsd
