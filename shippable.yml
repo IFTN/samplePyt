@@ -10,7 +10,7 @@ env:
   matrix:
     - hoo=plk
   global:
-    - test=env1
+    - test=env2
   
 build:
   ci:
