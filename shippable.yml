@@ -22,3 +22,4 @@ build:
     - echo yaa
     - echo $COMMIT_MESSAGE
     - sleep 1
+    - sleep 30
