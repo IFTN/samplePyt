@@ -14,9 +14,11 @@ env:
   
 build:
   ci:
-    - python -v
+    - python --version
     - echo "$hoo"
     - echo $test
     - echo dfsd
     - echo yaad
+    - echo yaa
     - echo $COMMIT_MESSAGE
+    - sleep 1
