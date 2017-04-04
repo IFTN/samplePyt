@@ -17,7 +17,7 @@ build:
     - python --version
     - echo "$hoo"
     - echo $test
-    - echo dfsd
+    - pwd
     - echo yaad
     - echo yaa
     - echo $COMMIT_MESSAGE
