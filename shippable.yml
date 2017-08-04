@@ -14,11 +14,4 @@ env:
   
 build:
   ci:
-    - python --version
-    - echo "$hoo"
-    - echo $test
-    - pwd
-    - echo yaad
-    - echo yaa
-    - echo $COMMIT_MESSAGE
-    - sleep 1000
+    - printenv
